@@ -1,0 +1,57 @@
+* {
+  padding: 20px;
+}
+
+body {
+  background-image: url("white2.jpg");
+  text-align: center;
+  text-shadow: 5px 5px 5px #000000;
+}
+
+p {
+  text-align: center;
+}
+
+p.intro {
+  font-size: 30px;
+  color: red;
+}
+
+p.title {
+  font-size: 60px;
+  color: black;
+}
+
+p.scroll {
+  font-size:20px;
+}
+
+p.scrollbig {
+  font-size:40px;
+}
+
+p.scrollrealbig {
+  font-size:80px;
+}
+
+p.scrollmed {
+  font-size:40px;
+}
+
+p.big {
+  font-size:50px;
+}
+
+p.scrollrealrealbig {
+  font-size:150px;
+}
+
+p.date {
+  font-size:20px;
+  margin-top:-80px;
+}
+
+p.bigsean {
+  font-size:14px;
+  margin-top: -80px;
+}
